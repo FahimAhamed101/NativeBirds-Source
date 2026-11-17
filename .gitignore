@@ -1,0 +1,22 @@
+# Build artifacts
+*.class
+*.dex
+*.apk
+*.ap_
+bin/
+build/
+out/
+
+# Android Studio / IntelliJ / Eclipse
+.idea/
+*.iml
+.gradle/
+.settings/
+.project
+.classpath
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
